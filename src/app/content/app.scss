@@ -1,0 +1,9 @@
+$primary: skyblue;
+$text-primary: black;
+$tint: skyblue;
+
+body {
+  background: $primary;
+  color: $text-primary;
+  background-image: url("./images/logo.png");
+}
